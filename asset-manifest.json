@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/color-box-may-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/color-box-may-react/static/js/main.d9df57ad.chunk.js",
+    "main.js.map": "/color-box-may-react/static/js/main.d9df57ad.chunk.js.map",
+    "runtime-main.js": "/color-box-may-react/static/js/runtime-main.217ac844.js",
+    "runtime-main.js.map": "/color-box-may-react/static/js/runtime-main.217ac844.js.map",
+    "static/js/2.1ed69fab.chunk.js": "/color-box-may-react/static/js/2.1ed69fab.chunk.js",
+    "static/js/2.1ed69fab.chunk.js.map": "/color-box-may-react/static/js/2.1ed69fab.chunk.js.map",
+    "static/js/3.b3c08747.chunk.js": "/color-box-may-react/static/js/3.b3c08747.chunk.js",
+    "static/js/3.b3c08747.chunk.js.map": "/color-box-may-react/static/js/3.b3c08747.chunk.js.map",
+    "index.html": "/color-box-may-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/color-box-may-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1ed69fab.chunk.js.LICENSE.txt": "/color-box-may-react/static/js/2.1ed69fab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217ac844.js",
+    "static/js/2.1ed69fab.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d9df57ad.chunk.js"
+  ]
+}
